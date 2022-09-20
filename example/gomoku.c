@@ -2,7 +2,7 @@
  * gomoku.c
  *
  *  Created on: 2017/06/30
- *      Author: b1016112 Daichi Matsumoto
+ *      Author: Daichi Matsumoto
  */
 
 #include <stdio.h>
